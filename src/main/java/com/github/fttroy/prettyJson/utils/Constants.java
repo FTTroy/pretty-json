@@ -2,7 +2,7 @@ package com.github.fttroy.prettyJson.utils;
 
 public class Constants {
     public static final String JSON_EXTENSION = ".json";
-    public static final String JSON_ROOT = "json/";
+    public static final String JSON_ROOT = "static/json/";
     public static final String TXT_ROOT = "txt/";
     public static final String TXT_EXTENSION = ".txt";
     public static final String WORDS_SUFFIX = "_words";
