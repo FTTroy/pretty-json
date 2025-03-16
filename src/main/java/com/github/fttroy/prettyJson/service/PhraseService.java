@@ -7,7 +7,6 @@ import com.github.fttroy.prettyJson.model.Phrase;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
-import java.io.File;
 import java.io.IOException;
 
 import static com.github.fttroy.prettyJson.utils.Constants.JSON_EXTENSION;

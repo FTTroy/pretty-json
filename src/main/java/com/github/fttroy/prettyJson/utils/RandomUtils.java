@@ -18,11 +18,7 @@ public class RandomUtils {
     }
 
     public static String randomWord(Reason reason) throws IOException {
-        List<String> words = Files.readAllLines(Path.of(new ClassPathResource(buildFilePath(reason)).getURI()));
+        List<String> words = Files.readAllLines(Path.of(new ClassPathResource(TXT_ROOT.concat(reason.getValue()).concat(WORDS_SUFFIX).concat(TXT_EXTENSION)).getURI()));
         return words.get(randomFrom(words.size()));
-    }
-
-    private static String buildFilePath(Reason reason){
-        return TXT_ROOT.concat(reason.getValue()).concat(WORDS_SUFFIX).concat(TXT_EXTENSION);
     }
 }

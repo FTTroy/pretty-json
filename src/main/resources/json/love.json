@@ -14,8 +14,7 @@
       "che mi fa andare l'anima a 100 anni luce di distanza dal mio corpo"
     ]
   },
-
-  "true_love" : {
+  "true_love": {
     "start": [
       "il mio vero amore",
       "il mio amore",
@@ -29,13 +28,17 @@
       "sei tu e lo sarai sempre"
     ],
     "end": [
+      "e qualsiasi sara' la situazione, stare senza di te mi porta al manicomio, mi mancherai sempre alla follia",
+      "e qualsiasi sara' il problema, lo affronteremo insieme... non sarai mai sola con me",
       "perche' non riesco ad immaginare un futuro senza di te",
-      "perchè mi fai sentire vivo",
+      "perche' mi fai sentire vivo",
       "a prescindere da tutto, ti inseguiro' fino in capo al mondo",
       "e qualsiasi cosa accada non finirò mai di amarti",
       "e non finirò mai di cercarti",
       "e ti porterò sull'altare...",
-      "e non riesco a smettere di immaginare la mia vita con te"
+      "e non riesco a smettere di immaginare la mia vita con te",
+      "...quando vedo il tuo sorriso mi sento la persona piu' fortunata del mondo",
+      "e mi emoziono solo a leggere il tuo nome, mi hai completamente stregato"
     ]
   }
 }

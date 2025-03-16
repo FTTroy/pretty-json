@@ -18,5 +18,43 @@
       "...non puoi sempre sottodimensionarti, sei incredibile accettalo!",
       "e hai raggiunto degli obiettivi che per altre persone sono semplicemente impensabili"
     ]
+  },
+  "you_and_me": {
+    "start": [
+      "ricordati che",
+      "io e te",
+      "noi"
+    ],
+    "middle": [
+      "riusciremo a superare tutto",
+      "siamo capaci di superare ogni sfida",
+      "siamo capitati nella vita l'un dell'altro per un motivo",
+      "possiamo farci solo del bene a vicenda"
+    ],
+    "end": [
+      "perche' siamo fatti l'uno per l'altro",
+      "...avremo un futuro brillante, una casa, dei grandi lavori e dei bellissimi bambini...",
+      "e nonostante tutto siamo in grado di amarci alla follia e questa volonta' sara' premiata",
+      "e anche se e' vero che siamo impazziti completamente, e' questo che voglio passare con te... pura e semplice follia",
+      "...il nostro destino e' gia' scritto insieme",
+      "...c'e' un filo rosso che ci unisce, ed e' il nostro destino che ci chiama"
+    ]
+  },
+  "beauty": {
+    "start": [
+      "tu"
+    ],
+    "middle": [
+      "sei cosi stupenda...",
+      "sei meravigliosa...",
+      "sei cosi'...non ho mai visto una persona cosi' bella..."
+    ],
+    "end": [
+      "mi fai letteralmente andare al manicomio!",
+      "vorrei farti LETTERALMENTE di tutto",
+      "non farti limitare dai tuoi occhi, ricordati che la tua mente e' un filtro e non tutto quello che vedi e' reale",
+      "i tuoi occhi mi fanno battere forte il cuore. il tuo sguardo ha rapito il mio cuore",
+      "diventa la versione migliore di te stessa, ricordati che tutte le situazioni influenzano il modo di porti d'avanti ad una sfida, non tutte DEVONO essere ascoltate"
+    ]
   }
 }
