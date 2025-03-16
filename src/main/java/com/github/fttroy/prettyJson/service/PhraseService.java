@@ -19,7 +19,7 @@ import static com.github.fttroy.prettyJson.utils.RandomUtils.randomWord;
 public class PhraseService {
     public String generatePhrase(Reason reason) throws IOException {
         ObjectMapper mapper = new ObjectMapper();
-        String fileName = JSON_ROOT.concat(reason.getValue()).concat(JSON_EXTENSION);
+        String fileName = reason.getValue().concat(JSON_EXTENSION);
         File jsonResource = new ClassPathResource(fileName).getFile();
         JsonNode node = mapper.readTree(jsonResource).get(randomWord(reason));
         String phrase = mapper.treeToValue(node, Phrase.class).buildPhrase();
