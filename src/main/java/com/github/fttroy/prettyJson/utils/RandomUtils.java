@@ -23,6 +23,6 @@ public class RandomUtils {
     }
 
     private static String buildFilePath(Reason reason){
-        return reason.getValue().concat(WORDS_SUFFIX).concat(TXT_EXTENSION);
+        return TXT_ROOT.concat(reason.getValue()).concat(WORDS_SUFFIX).concat(TXT_EXTENSION);
     }
 }
