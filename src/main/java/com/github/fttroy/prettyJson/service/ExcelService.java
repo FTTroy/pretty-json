@@ -2,6 +2,7 @@ package com.github.fttroy.prettyJson.service;
 
 import org.apache.poi.ss.usermodel.Workbook;
 import org.springframework.http.HttpHeaders;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
@@ -23,6 +24,7 @@ public class ExcelService {
         byte[] excelFile = baos.toByteArray();
         // Imposto headers della risposta per ritornare excel
         HttpHeaders headers = new HttpHeaders();
+        headers.setContentType(MediaType.parseMediaType("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"));
         headers.add("Content-Disposition", "attachment; filename=phrases.xlsx");
         // Restituisce la risposta con il file Excel come byte array
         return ResponseEntity.ok()
