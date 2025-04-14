@@ -1,2 +1,5 @@
 star
 true_love
+kiss
+look
+love

@@ -4,10 +4,11 @@
       "tu sei"
     ],
     "middle": [
-      "una stella"
+      "una stella",
+      "la mia stella polare"
     ],
     "end": [
-      "che riesce sempre a farmi ritrovare la strada di casa",
+      "che riesce sempre a farmi ritrovare la strada di casa... perche' casa mia sei tu",
       "nel mio cielo di pensieri",
       "che illumina il mio cammino",
       "che brilla nel mio cuore",
@@ -28,6 +29,7 @@
       "sei tu e lo sarai sempre"
     ],
     "end": [
+      "e ti assicuro che tu sarai la madre dei miei figli... ti amo alla follia",
       "e qualsiasi sara' la situazione, stare senza di te mi porta al manicomio, mi mancherai sempre alla follia",
       "e qualsiasi sara' il problema, lo affronteremo insieme... non sarai mai sola con me",
       "perche' non riesco ad immaginare un futuro senza di te",
@@ -39,6 +41,53 @@
       "e non riesco a smettere di immaginare la mia vita con te",
       "...quando vedo il tuo sorriso mi sento la persona piu' fortunata del mondo",
       "e mi emoziono solo a leggere il tuo nome, mi hai completamente stregato"
+    ]
+  },
+  "kiss": {
+    "start": [
+      "i tuoi baci...",
+      "quando ci baciamo..."
+    ],
+    "middle": [
+      "non riuscirei mai a starne senza...",
+      "sento delle cose che neanche nelle canzoni o nei film possono essere narrate..."
+    ],
+    "end": [
+      "la mia anima va letteralmente a fuoco",
+      "ti sento completamente mia",
+      "sento le farfalle nello stomaco, mi sento rivoltato come un calzino!",
+      "impazzisco, non riesco a pensare piu' a niente, ne voglio sempre di piu'",
+      "quando le nostre labbra si posano l'una sull'altra mi sento su un'altro pianeta"
+    ]
+  },
+  "look": {
+    "start": [
+      "quando ci guardiamo negli occhi...",
+      "i tuoi bellissimi occhi..."
+    ],
+    "middle": [
+      "un solo semplice sguardo..."
+    ],
+    "end": [
+      "riempie l'aria circostante di amore puro... siamo semplicemente noi",
+      "riesce a dire quello che non potremmo dirci in 1000 anni",
+      "fa capire la purezza di quello che proviamo",
+      "mi fa ricordare quanto sono stato fortunato ad averti nella mia vita, sei la mia salvezza",
+      "mi fa innamorare di te, come la prima volta che ti ho sentito, come la prima volta che ti ho visto... sei semplicemente mia"
+    ]
+  },
+  "love": {
+    "start": [
+      "amore mio"
+    ],
+    "middle": [
+      "ricordati"
+    ],
+    "end": [
+      "che siamo una sola cosa io e te... siamo sempliecemente Francesco e Alessandra",
+      "che l'amore quello vero e' quello in grado di amare per due quando l'altro non riesce...",
+      "che l'amore quello vero e' quello che non si ferma d'avanti a niente, capace di amare nonostante tutti i problemi",
+      "che l'amore quello vero e' quello che non chiede, è quello che da' con tutto se stesso"
     ]
   }
 }
